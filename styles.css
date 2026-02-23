@@ -1,10 +1,10 @@
 body {
     max-width: 600px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 10px auto;
+    margin: 20px auto;
     padding: 10px;
     border-radius: 11px;
-    background: linear-gradient(135deg, #fdfaf6, #fdebd0);
+    background: #fdebd0;
     border: 2px solid #d4a96a;
 }
 
