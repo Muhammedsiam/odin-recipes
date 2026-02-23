@@ -9,12 +9,11 @@ A simple recipe website featuring three recipes with ingredients, instructions, 
 ## Skills Demonstrated
 
 - HTML boilerplate structure
-- Working with headings, paragraphs, lists (ordered and unordered)
-- Creating links between pages
-- Using images with semantic HTML (`<figure>`, `<figcaption>`)
-- Organizing files and directories
-- Git workflow (add, commit, push)
-- Deploying to GitHub Pages
+- Working with headings, paragraphs, lists
+- Semantic HTML (figure, figcaption, nav)
+- CSS styling, gradients, hover effects and transitions
+- Linking pages and organizing file structure
+- Git workflow and GitHub Pages deployment
 
 ## Recipes Included
 
